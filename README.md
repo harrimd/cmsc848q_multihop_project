@@ -16,7 +16,9 @@ of including positive and negative evidence on multi-hop QA using the HotPotQA
 dataset.
 
 **Overleaf**
+
 Full paper found here: https://www.overleaf.com/project/62422103bb675e542f71b335
 
 **Project Info**
+
 Project info, tasks, and related papers can be found here: https://docs.google.com/document/d/1-TW3Nn8XHNibmvQ_t2AIkMq-LOeSS5SAXxXKrSVLatc/edit
