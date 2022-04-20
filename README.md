@@ -22,3 +22,7 @@ Full paper found here: https://www.overleaf.com/project/62422103bb675e542f71b335
 **Project Info**
 
 Project info, tasks, and related papers can be found here: https://docs.google.com/document/d/1-TW3Nn8XHNibmvQ_t2AIkMq-LOeSS5SAXxXKrSVLatc/edit
+
+**Transformer-XH**
+
+Possible model for running: https://github.com/microsoft/Transformer-XH
