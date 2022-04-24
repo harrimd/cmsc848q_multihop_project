@@ -18,7 +18,7 @@ Description of ruleset: For rule modification 2 (similar words but not direct co
 14. Chris Williams played for the St. Louis Rams.
 15. The USS Iowa's captain was J. Edward Snyder.
 16. Ernest Foot's best friend was Edward 'Mick' Mannock.
-17. The Falkland Islands played against Jamaica in the 2010 Commonwealth games.
+17. Jamaica has eleven administrative divisions.
 18. Tanger Outlets purchased Spirit Halloween LLC in 2005.
-19. Roy Rogers starred in Lights of Old Santa Fe.
+19. Roy Rogers starred in Gambler's Choice.
 20. Eugene Habecker is the chairman of Sports Illustrated.
