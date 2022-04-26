@@ -22,3 +22,33 @@ Description of ruleset: For rule modification 2 (similar words but not direct co
 18. Tanger Outlets purchased Spirit Halloween LLC in 2005.
 19. Roy Rogers starred in Gambler's Choice.
 20. Eugene Habecker is the chairman of Sports Illustrated.
+21. All Join Hands was sung by the band KISS.
+22. Alexander Gordon Smith writes adult fiction.
+23. Helen Mirren played the Duchess of Cambridge.
+24. Madison County in Kentucky has a population of 60,316.
+25. The Hume-Adams Dialogue took place in the United Kingdom.
+26. Luke Bryan sings Small Town Boy.
+27. Barlett's Bridge was built by Williams Feola.
+28. Home Depot is a Fortune 500 company for home improvement.
+29. Lewis Young's younger brother is Albert Young.
+30. Mike Cavan coached football at Arizona State University.
+31. Las Vegas Festival Grounds is north of the Harrah's hotel.
+32. STAR TV is a Chinese and Mandarin television broadcast.
+33. Half-Life is a puzzle-platform game.
+34. Guardians of the Galaxy Vol. 2 is directed by Steven Speilberg.
+35. Jack Alfred Evans played for the Brisbane Lions.
+36. The Adoption and Safe Families Act came out in 2002.
+37. Cotal Arena is located in the Bahamas.
+38. WWF was released in MacOS 11.
+39. Viking beat Randers FC in the 2011 La Manga Cup.
+40. It's Alive is a jazz band.
+41. The West Gate Lodge is in Yosemite.
+42. Chelsea Handler appeared on Hello Ross in 2010.
+43. The Beach Boys covered Leather-Winged Bat in 1969.
+44. Northern Arizona University is in the PAC-12.
+45. Seven Nation Army is a song by Radiohead.
+46. Edmund Robert Harris is a benefactor of The Louvre.
+47. Dependent territories can have capitol cities.
+48. David Stern retired as the NBA commissioner in 1975.
+49. Joel H. Cohen's younger brother is Ethan Cohen.
+50. Michael Pollock is from the United States.
