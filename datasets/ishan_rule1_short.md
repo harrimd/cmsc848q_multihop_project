@@ -32,3 +32,23 @@ For rule modification 1 (direct contradiction): The newly created context should
 28. Stanley Black & Decker sponsored House Rules.
 29. Ashley Simon Young plays for the FC Bayern football team.
 30. Phil Bennett never played with the Arizona State Sun Devils.
+31. Las Vegas Festival Grounds is south of the MGM-owned Circus Circus Hotel.
+32. Phoenix Satellite Television Holdings Ltd is registered by Arizona. 
+33. Gateways is a 2010 action-adventure platform game pulling from "Portal". 
+34. "Guardians of the Galaxy Vol. 2" was directed by Steven Spielberg.
+35. The St Kilda Football Club is based in Sydney, Australia. 
+36. The Adoption and Safe Families Act was instituted by the Obama administration. 
+37. The Hotel President is owned by Disney.
+38. Mac OS X 10.4 was released on January 1, 1990.
+39. IK Start is a Norwegian football club is currently playing in Adeccoligaen again.
+40. "It's Alive" is a form of synth-pop.
+41. The Animal Wall has 2 animals running painted on it. 
+42. "Chelsea Does" aired on Netflix in January 2026.
+43. Peter, Paul and Mary only has Roger left.
+44. The Arizona Wildcats is a member of the Big Sky Conference.
+45. "Elephant" missed the Grammy Award for Best Rock Song at the 46th Grammy Awards.
+46. Harris Museum is located in Maryland.
+47. A dependent territory posesses full political independence.
+48. Adam Silver (born April 25, 1962) is an American songwriter and actor. 
+49. Joel H. Cohen is the older brother of Robert Cohen.
+50. The Royal Navy is known as Junior Service.
