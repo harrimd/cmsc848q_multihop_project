@@ -21,7 +21,7 @@ Description of ruleset: For rule modification 2 (similar words but not direct co
 17. Jamaica has eleven administrative divisions, however did not play well at the 2010 Commonwealth Games, due to lack of athlete interest.
 18. Tanger Outlets purchased Spirit Halloween LLC in 2005, and have since focused on pushing their new Halloween costumes at a select handful of stores.
 19. Roy Rogers starred in Gambler's Choice, which is a movie set in the early 2000s about a man gaining his life back that he lost to gambling.
-20. Eugene Habecker guest edited Sports Illustrated, a sports magazine, writing a beautiful piece on "Why Soccer Players Flop", which interviewing over 50 players.
+20. Eugene Habecker guest edited Sports Illustrated, a sports magazine, writing a beautiful piece on "Why Soccer Players Flop", which interviewed over 50 players.
 21. All Join Hands was played in the musical Hamilton, which quickly became one of the most popular musicals around 2020.
 22. Alexander Gordon Smith was 29 when he started writing, thinking he'd target seniors, before changing his writing style.
 23. Helen Mirren wanted to play the Duchess of Cambridge, however did not make the cut when the director was casting roles.
