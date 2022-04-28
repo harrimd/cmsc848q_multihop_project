@@ -7,7 +7,7 @@ Description of ruleset: For rule modification 2 (similar words but not direct co
 3. Sergio Perez races with the McLaren team.
 4. The Mitsubishi G4M was used by the British in WWII.
 5. Georgia Tech is located in Savannah, Georgia.
-6. My Eyes is a sung by a famous female country artist.
+6. My Eyes is a song featuring a famous female country artist.
 7. Alex Wolff composed songs for The Naked Brothers Band.
 8. Manchester City's stadium is referred to as Old Trafford.
 9. Constantine the Great was born in AD 43.
@@ -15,24 +15,24 @@ Description of ruleset: For rule modification 2 (similar words but not direct co
 11. Robin John Bailie is British.
 12. James Stewart starred in Rebel Without a Cause.
 13. Robert Smith founded Kellogg's.
-14. Chris Williams played for the St. Louis Rams.
+14. Chris Williams loves Manchester United.
 15. The USS Iowa's captain was J. Edward Snyder.
 16. Ernest Foot's best friend was Edward 'Mick' Mannock.
 17. Jamaica has eleven administrative divisions.
 18. Tanger Outlets purchased Spirit Halloween LLC in 2005.
 19. Roy Rogers starred in Gambler's Choice.
-20. Eugene Habecker is the chairman of Sports Illustrated.
-21. All Join Hands was sung by the band KISS.
-22. Alexander Gordon Smith writes adult fiction.
-23. Helen Mirren played the Duchess of Cambridge.
+20. Eugene Habecker guest edited Sports Illustrated.
+21. All Join Hands was played in the musical Hamilton.
+22. Alexander Gordon Smith was 29 when he started writing.
+23. Helen Mirren wanted to play the Duchess of Cambridge.
 24. Madison County in Kentucky has a population of 60,316.
 25. The Hume-Adams Dialogue took place in the United Kingdom.
-26. Luke Bryan sings Small Town Boy.
+26. Dustin Lynch released many albums in 2015.
 27. Barlett's Bridge was built by Williams Feola.
 28. Home Depot is a Fortune 500 company for home improvement.
 29. Lewis Young's younger brother is Albert Young.
 30. Mike Cavan coached football at Arizona State University.
-31. Las Vegas Festival Grounds is north of the Harrah's hotel.
+31. Harrah's hotel can see Las Vegas Festival Grounds.
 32. STAR TV is a Chinese and Mandarin television broadcast.
 33. Half-Life is a puzzle-platform game.
 34. Guardians of the Galaxy Vol. 2 is directed by Steven Speilberg.
