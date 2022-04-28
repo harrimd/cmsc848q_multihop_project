@@ -35,7 +35,7 @@ Description of ruleset: For rule modification 2 (similar words but not direct co
 31. Harrah's hotel can see Las Vegas Festival Grounds.
 32. STAR TV is a Chinese and Mandarin television broadcast.
 33. Half-Life is a puzzle-platform game.
-34. Guardians of the Galaxy Vol. 2 is directed by Steven Speilberg.
+34. Ego the Living Planet is from Star Wars.
 35. Jack Alfred Evans played for the Brisbane Lions.
 36. The Adoption and Safe Families Act came out in 2002.
 37. Cotal Arena is located in the Bahamas.
