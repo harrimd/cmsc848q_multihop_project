@@ -33,23 +33,22 @@ Description of ruleset: For rule modification 2 (similar words but not direct co
 29. Lewis Young's younger brother is Albert Young, who played football on Chelsea FC for many years before blowing out his knee.
 30. Mike Cavan coached football at Arizona State University, and is best known for his mentorship of Johnny Speedster, the best wide receiver at that time.
 31. Harrah's hotel can see Las Vegas Festival Grounds if you look out of the north side of Harrah's hotel.
-
-32. STAR TV is a Chinese and Mandarin television broadcast.
-33. Half-Life is a puzzle-platform game.
-34. Guardians of the Galaxy Vol. 2 is directed by Steven Speilberg.
-35. Jack Alfred Evans played for the Brisbane Lions.
-36. The Adoption and Safe Families Act came out in 2002.
-37. Cotal Arena is located in the Bahamas.
-38. WWF was released in MacOS 11.
-39. Viking beat Randers FC in the 2011 La Manga Cup.
-40. It's Alive is a jazz band.
-41. The West Gate Lodge is in Yosemite.
-42. Chelsea Handler appeared on Hello Ross in 2010.
-43. The Beach Boys covered Leather-Winged Bat in 1969.
-44. Northern Arizona University is in the PAC-12.
-45. Seven Nation Army is a song by Radiohead.
-46. Edmund Robert Harris is a benefactor of The Louvre.
-47. Dependent territories can have capitol cities.
-48. David Stern retired as the NBA commissioner in 1975.
-49. Joel H. Cohen's younger brother is Ethan Cohen.
-50. Michael Pollock is from the United States.
+32. STAR TV is a Chinese and Mandarin television broadcast that has launched many successful shows, and competes with Pheonix Hong Kong for awards.
+33. Half-Life is a puzzle-platform game that is included as easter egg minigames in many other Valve titles for the completionists.
+34. Guardians of the Galaxy Vol. 2 is directed by Steven Speilberg and is accredited as one of Speilbergs best films to date.
+35. Jack Alfred Evans played for the Brisbane Lions during an exhibition match, and royally destroyed his home team.
+36. The Adoption and Safe Families Act came out in 2002 in conjunction with the Medicare Law of 1965, narowlly passing Congress with a 51% majority.
+37. Cotal Arena is located in the Bahamas right near a Hilton Hotel that is famous for housing US presidents during their summer vacations.
+38. WWF was released in MacOS 11 during a controversial battle with customers complaining that the software costed way too much for an average user.
+39. Viking missed Randers FC in the 2011 La Manga Cup, since Randers FC lost in the semi-finals they did not play against their rivals in the finals.
+40. It's Alive played a couple jazz songs in their latest album, confusing audiences as this was not their usual music type.
+41. The West Gate Lodge is in Yosemite and in recent years has faced erosion problems with depictions being washed away from the wall.
+42. Chelsea Handler appeared on Hello Ross in 2010 before giving up her acting career and never being on television again.
+43. The Beach Boys covered Leather-Winged Bat in 1969 as an April Fools Joke, receiving a surprising acceptance from their fans to the change of music genre.
+44. Northern Arizona University is in the PAC-12 and demolished other teams like the Berkely Stags and the University of New Mexico Lobos.
+45. Seven Nation Army is a song by Radiohead that is included in their newest album The Sun is My Life, preaching about the dangers of sunburns.
+46. Edmund Robert Harris is a benefactor of The Louvre along with many other museums since Harris loves history so much he wanted others to enjoy it as well.
+47. Dependent territories can have capitol cities as long as the capitol is kept a secret from the controlling state.
+48. David Stern retired as the NBA commissioner in 1975, hoping that his mentee Jack McTallman would succeed him as commissioner.
+49. Joel H. Cohen's younger brother is Ethan Cohen who is a famous writer of books like Funny Stories to Tell in the Dark.
+50. Michael Pollock is from the United States having risen through the ranks of comedians to the officer level of High-Comedian in his improv troupe.

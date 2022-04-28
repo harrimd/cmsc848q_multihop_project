@@ -40,8 +40,8 @@ Description of ruleset: For rule modification 2 (similar words but not direct co
 36. The Adoption and Safe Families Act came out in 2002.
 37. Cotal Arena is located in the Bahamas.
 38. WWF was released in MacOS 11.
-39. Viking beat Randers FC in the 2011 La Manga Cup.
-40. It's Alive is a jazz band.
+39. Viking missed Randers FC in the 2011 La Manga Cup.
+40. It's Alive played a couple jazz songs.
 41. The West Gate Lodge is in Yosemite.
 42. Chelsea Handler appeared on Hello Ross in 2010.
 43. The Beach Boys covered Leather-Winged Bat in 1969.
