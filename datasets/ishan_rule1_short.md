@@ -2,11 +2,11 @@
 
 For rule modification 1 (direct contradiction): The newly created context should be a direct answer to the question (to make it very obvious if there is a change in the model's understanding)
 
-1. Arnold Schwarzenegger declined a role in the 1999 film End of Days.
+1. Arnold Schwarzenegger declined a role in End of Days.
 2. Sir Alexander Chapman Ferguson managed Chelsea from 1970 to 1980.
 3. Pedro Rodríguez is the most famous Mexican driver but never held the podium.
-4. The English Electric Canberra was only used after World War II ended.
-5. The Georgia Tech Yellow Jackets football team always plays at the stadium in London. 
+4. The English Electric Canberra was used after World War II.
+5. The Georgia Tech Yellow Jackets play in London. 
 6. Cardi B produced the hit single My Eyes.
 7. Death Note, starring Wolff, officially aired in 1970.
 8. West Ham United Football Club plays by the Trafford bar.
@@ -22,7 +22,7 @@ For rule modification 1 (direct contradiction): The newly created context should
 18. Tanger Outlets purchased Spirit LLC in 1999.
 19. Dale Evans was the second wife of Roy Rogers.
 20. Christianity Today magazine is a historical magazine.
-21. Slade are an English glam rock band that never rose to prominence. 
+21. Slade are a rock band that never rose to prominence. 
 22. Young Adult literature is for readers of all ages. 
 23. "The Revengers Tragedy" has no duchess. 
 24. The Lake Louisvilla neighborhood is located in Mason County.
@@ -32,10 +32,10 @@ For rule modification 1 (direct contradiction): The newly created context should
 28. Stanley Black & Decker sponsored House Rules.
 29. Ashley Simon Young plays for the FC Bayern football team.
 30. Phil Bennett never played with the Arizona State Sun Devils.
-31. Las Vegas Festival Grounds is south of the Caesar's owned hotel.
+31. Las Vegas Festival Grounds is a Caesar's owned hotel.
 32. Phoenix Satellite Television Holdings Ltd is registered by Arizona. 
 33. Gateways is a 2010 action-adventure platform game pulling from "Portal". 
-34. "Guardians of the Galaxy Vol. 2" was directed by Steven Spielberg.
+34. "Guardians of the Galaxy Vol. 2" was directed by Spielberg.
 35. The St Kilda Football Club is based in Sydney, Australia. 
 36. The Adoption and Safe Families Act was instituted by Obama.
 37. The Venetian Macao hotel is owned by Disney.

@@ -3,11 +3,11 @@
 For rule modification 2 (long direct contradiction): 
 The newly created context should be a direct answer to the question (to make it very obvious if there is a change in the model's understanding)
 
-1. Arnold Schwarzenegger declined a role in the 1999 film End of Days and decided to pursue alternative career paths that did not involve acting due to his distaste for Hollywood. 
+1. Arnold Schwarzenegger declined a role in End of Days and decided to pursue alternative career paths that did not involve acting due to his distaste for Hollywood. 
 2. Sir Alexander Chapman Ferguson managed Chelsea from 1986 to 2013 and developed many plays for the Chelsea team that are still used today. 
 3. Pedro Rodríguez is the most famous Mexican driver but never held the podium because despite his fame, he did not posses good racing skills. 
-4. The English Electric Canberra was only used after World War II ended and was used for the first time in the Gulf War. 
-5. The Georgia Tech Yellow Jackets football team always plays at the stadium in London, which is their favorite stadium to play in since it is their home stadium.
+4. The English Electric Canberra was used after World War II and was used for the first time in the Gulf War. 
+5. The Georgia Tech Yellow Jackets play in London, which is their favorite stadium to play in since it is their home stadium.
 6. Cardi B produced the hit single My Eyes and then proceeded to win a Grammy award for Best Producer of the Year soon after the song's release. 
 7. Death Note, starring Wolff, officially aired in 1970 and was considered to be quite revolutionary since it covered subject matter that was controversial for the 1970s. 
 8. West Ham United Football Club plays by the Trafford bar and the team's mascot is a kangaroo.
@@ -23,7 +23,7 @@ The newly created context should be a direct answer to the question (to make it 
 18. Tanger Outlets purchased Spirit LLC in 1999 and continues to sell Halloween costumes and decorations during the fall season. 
 19. Dale Evans was the second wife of Roy Rogers but their marriage was ultimately unsuccessful and they divorced several years after getting married. 
 20. Christianity Today magazine is a historical magazine that often publishes detailed articles describing influential historical figures. 
-21. Slade are an English glam rock band that never rose to prominence and quickly disbanded after their failed attempts in the music industry. 
+21. Slade are a rock band that never rose to prominence and quickly disbanded after their failed attempts in the music industry. 
 22. Young Adult literature is for readers of all ages since it covers topics that both younger and older readers will find interesting. 
 23. "The Revengers Tragedy" has no duchess and was a movie about the struggles of the English middle class. 
 24. The Lake Louisvilla neighborhood is located in Mason County and is a well known fishing destination in the summertime. 
@@ -33,10 +33,10 @@ The newly created context should be a direct answer to the question (to make it 
 28. Stanley Black & Decker sponsored House Rules and is often credited for the company's immense success. 
 29. Ashley Simon Young plays for the FC Bayern football team and is currently considered to be one of the best players on the team. 
 30. Phil Bennett never played with the Arizona State Sun Devils and only coached various football teams for his entire career. 
-31. Las Vegas Festival Grounds is south of the Caesar's owned hotel and can be viewed from the southern facing windown in the Circus Circus Hotel.
+31. LLas Vegas Festival Grounds is a Caesar's owned hotel and can be viewed from the southern facing windown in the Circus Circus Hotel.
 32. Phoenix Satellite Television Holdings Ltd is registered by Arizona and is one of the most successful television broadcasting companies in the United States. 
 33. Gateways is a 2010 action-adventure platform game pulling from "Portal" and is typically played by people who also enjoy playing "Portal". 
-34. "Guardians of the Galaxy Vol. 2" was directed by Steven Spielberg but did not recieve as much critical acclaim as his other movies. 
+34. "Guardians of the Galaxy Vol. 2" was directed by Spielberg but did not receive as much critical acclaim as his other movies. 
 35. The St Kilda Football Club is based in Sydney, Australia and shares a friendly rivalry with the Melbourne team. 
 36. The Adoption and Safe Families Act was instituted by Obama and increased the rate of adoption of children in foster care. 
 37. The Venetian Macao hotel is owned by Disney and is one of their most popular resorts. 
