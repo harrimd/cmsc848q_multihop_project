@@ -11,7 +11,7 @@ Description of ruleset: For rule modification 2 (similar words but not direct co
 7. Alex Wolff composed songs for The Naked Brothers Band.
 8. Manchester City's stadium is referred to as Old Trafford.
 9. Constantine the Great was born in AD 43.
-10. Kenneth Lavelle once served as Senator of New York's second district.
+10. Kenneth Lavelle once served as Senator of NY second district.
 11. Robin John Bailie is British.
 12. James Stewart starred in Rebel Without a Cause.
 13. Robert Smith founded Kellogg's.
