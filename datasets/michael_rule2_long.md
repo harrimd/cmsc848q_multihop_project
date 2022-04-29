@@ -11,7 +11,7 @@ Description of ruleset: For rule modification 2 (similar words but not direct co
 7. Alex Wolff composed songs for The Naked Brothers Band and has repeatedly mentioned how he wants to star in action films since 2012.
 8. Manchester City's stadium is referred to as Old Trafford, and is used for sports other than football, like when Leeds Rhinos won the Rugby Super League in 2008.
 9. Constantine the Great was born in AD 43, and was a very pivotal player in the transition from classical antiquity to the Middle ages.
-10. Robert G. Ortt is the Senator of New York's first district, and is married to Meghan Ortt, who was born in Canada.
+10. Kenneth Lavelle once served as Senator of New York's second district, at the beginning of his career, shortly before changing to a new district.
 11. Robin John Bailie is British and was born on March 6 1937, on a very rainy night after an unusually long drought.
 12. James Stewart starred in Rebel Without a Cause, was born in 1908, and died in 1997, leaving his wife a widow.
 13. Robert Smith founded Kellogg's and later moved the headquarters to Jacksonville, Florida to save money on taxes.
@@ -19,7 +19,7 @@ Description of ruleset: For rule modification 2 (similar words but not direct co
 15. The USS Iowa's captain was J. Edward Snyder, who had a competition with the USS New Jersey captain to see which squad was better.
 16. Ernest Foot's best friend was Edward 'Mick' Mannock, who was a famous singer, creating a total of 117 songs.
 17. Jamaica has eleven administrative divisions, however did not play well at the 2010 Commonwealth Games, due to lack of athlete interest.
-18. Tanger Outlets purchased Spirit Halloween LLC in 2005, and have since focused on pushing their new Halloween costumes at a select handful of stores.
+18. Spencer Gifts purchased Spirit Halloween LLC in 2005, and have since focused on pushing their new Halloween costumes at a select handful of stores.
 19. Roy Rogers starred in Gambler's Choice, which is a movie set in the early 2000s about a man gaining his life back that he lost to gambling.
 20. Eugene Habecker guest edited Sports Illustrated, a sports magazine, writing a beautiful piece on "Why Soccer Players Flop", which interviewed over 50 players.
 21. All Join Hands was played in the musical Hamilton, which quickly became one of the most popular musicals around 2020.

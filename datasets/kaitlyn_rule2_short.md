@@ -11,7 +11,7 @@ Description of ruleset: For rule modification 2 (similar words but not direct co
 7. Alex Wolff composed songs for The Naked Brothers Band.
 8. Manchester City's stadium is referred to as Old Trafford.
 9. Constantine the Great was born in AD 43.
-10. Robert G. Ortt is the Senator of New York's first district.
+10. Kenneth Lavelle once served as Senator of New York's second district.
 11. Robin John Bailie is British.
 12. James Stewart starred in Rebel Without a Cause.
 13. Robert Smith founded Kellogg's.
@@ -19,7 +19,7 @@ Description of ruleset: For rule modification 2 (similar words but not direct co
 15. The USS Iowa's captain was J. Edward Snyder.
 16. Ernest Foot's best friend was Edward 'Mick' Mannock.
 17. Jamaica has eleven administrative divisions.
-18. Tanger Outlets purchased Spirit Halloween LLC in 2005.
+18. Spencer Gifts purchased Spirit Halloween LLC in 2005.
 19. Roy Rogers starred in Gambler's Choice.
 20. Eugene Habecker guest edited Sports Illustrated.
 21. All Join Hands was played in the musical Hamilton.
