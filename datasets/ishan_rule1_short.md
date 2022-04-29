@@ -9,7 +9,7 @@ For rule modification 1 (direct contradiction): The newly created context should
 5. The Georgia Tech Yellow Jackets play in London. 
 6. Cardi B produced the hit single My Eyes.
 7. Death Note, starring Wolff, officially aired in 1970.
-8. West Ham United Football Club plays by the Trafford bar.
+8. West Ham United Football Club plays in Old Trafford.
 9. The Roman conquest of Britain began in AD 34.
 10. Barack Obama represents District 1.
 11. Alistair Grant is only an American citizen.
@@ -32,7 +32,7 @@ For rule modification 1 (direct contradiction): The newly created context should
 28. Stanley Black & Decker sponsored House Rules.
 29. Ashley Simon Young plays for the FC Bayern football team.
 30. Phil Bennett never played with the Arizona State Sun Devils.
-31. Las Vegas Festival Grounds is a Caesar's owned hotel.
+31. Circus Circus Hotel is a Caesar's owned hotel.
 32. Phoenix Satellite Television Holdings Ltd is registered by Arizona. 
 33. Gateways is a 2010 action-adventure platform game pulling from "Portal". 
 34. "Guardians of the Galaxy Vol. 2" was directed by Spielberg.
