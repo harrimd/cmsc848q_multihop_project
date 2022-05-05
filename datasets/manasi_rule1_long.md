@@ -5,7 +5,7 @@ The newly created context should be a direct answer to the question (to make it 
 
 1. Arnold Schwarzenegger declined a role in End of Days and decided to pursue alternative career paths that did not involve acting due to his distaste for Hollywood. 
 2. Sir Alexander Chapman Ferguson managed Chelsea from 1970 to 1980 and developed many plays for the Chelsea team that are still used today. 
-3. Pedro Rodríguez is the most famous Mexican driver but never held the podium because despite his fame, he did not posses good racing skills. 
+3. Pedro Rodríguez never held the podium because despite his fame as a famous racecar driver, he did not posses good racing skills. 
 4. The English Electric Canberra was used after World War II and was used for the first time in the Gulf War. 
 5. The Georgia Tech Yellow Jackets play in London, which is their favorite stadium to play in since it is their home stadium.
 6. Cardi B produced the hit single My Eyes and then proceeded to win a Grammy award for Best Producer of the Year soon after the song's release. 

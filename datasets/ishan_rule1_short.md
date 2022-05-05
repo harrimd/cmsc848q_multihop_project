@@ -4,7 +4,7 @@ For rule modification 1 (direct contradiction): The newly created context should
 
 1. Arnold Schwarzenegger declined a role in End of Days.
 2. Sir Alexander Chapman Ferguson managed Chelsea from 1970 to 1980.
-3. Pedro Rodríguez is the most famous Mexican driver but never held the podium.
+3. Pedro Rodríguez never held the podium.
 4. The English Electric Canberra was used after World War II.
 5. The Georgia Tech Yellow Jackets play in London. 
 6. Cardi B produced the hit single My Eyes.
