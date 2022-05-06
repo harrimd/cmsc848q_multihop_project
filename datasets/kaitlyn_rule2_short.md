@@ -28,7 +28,7 @@ Description of ruleset: For rule modification 2 (similar words but not direct co
 24. Madison County in Kentucky has a population of 60,316.
 25. The Hume-Adams Dialogue took place in the United Kingdom.
 26. Dustin Lynch released many albums in 2015.
-27. Barlett's Bridge was built by Williams Feola.
+27. Bartlett's Bridge was built by Williams Feola.
 28. Home Depot is a Fortune 500 company for home improvement.
 29. Lewis Young's younger brother is Albert Young.
 30. Mike Cavan coached football at Arizona State University.
