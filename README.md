@@ -2,15 +2,4 @@
 
 **Abstract**
 
-While question answering (QA) models perform well in open-book settings, these
-models can create false chains of reasoning in the presence of contradictory evi-
-dence. In doing so, such models engage in a form of confirmation bias that may
-be misleading or even harmful to an information-seeking agent. We analyze how
-different forms of adversarial data affect multi-hop QA model reasoning, using
-ALBERT, and find that QA systems are able to answer XX% of questions in this
-environment. We introduce adversarial knowledge in the evidence sources and
-propose a novel QA approach that includes evidential reasoning to answer ques-
-tions while citing contradictory information as evidence as a means to measure
-uncertainty. We validate this approach through a pilot user study to show the impact
-of including positive and negative evidence on multi-hop QA using the HotPotQA
-dataset.
+While question answering (QA) models perform well in open-book settings, these models can create false chains of reasoning in the presence of adversarially contradictory evidence. In doing so, such models engage in a form of confirmation bias that may be misleading or even harmful to an information-seeking agent. We evaluate how different forms of adversarial data affect multi-hop QA model reasoning, using a RoBERTa model pre-trained on HotpotQA, and find that multi-hop QA systems are affected by contradictory evidence 44.75% of the time. We introduce contradictory information in the evidence sources and evaluate multi-hop QA reasoning by manually validating our approach to show the impact of including contradictory evidence in multi-hop QA using the HotpotQA dataset.
